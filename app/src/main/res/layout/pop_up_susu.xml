@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="350dp"
+    android:layout_height="475dp"
+    android:background="@drawable/green"
+    android:layout_gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:src="@drawable/susu"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:scaleType="centerInside"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:justificationMode="inter_word"
+        android:text="manfaat susu berasal dari kandungan lengkap yang terdapat di dalamnya. Manfaat susu meliputi gizi, vitamin, mineral, protein, mineral, serta kalsium. Kandungan-kandungan yang tergabung dalam manfaat susu tersebut memberi dampak positif terhadap perkembangan tubuh, seperti pertumbuhan dan kepadatan tulang, energi, serta meningkatkan pencernaan serta metabolisme tubuh merupakan manfaat susu setiap hari yang bisa Anda rasakan. "
+        android:textStyle="bold" />
+
+</LinearLayout>

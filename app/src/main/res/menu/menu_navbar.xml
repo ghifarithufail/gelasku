@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/nav_acc"
+            android:title="Account"
+            android:icon="@drawable/user2"/>
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/house"/>
+
+        <item
+            android:id="@+id/nav_drink"
+            android:title="Drinks"
+            android:icon="@drawable/drinks"/>
+
+        <item
+            android:id="@+id/nav_foods"
+            android:title="Foods"
+            android:icon="@drawable/foods"/>
+
+    </group>
+
+
+
+</menu>

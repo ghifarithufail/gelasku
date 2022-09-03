@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="350dp"
+    android:layout_height="475dp"
+    android:background="@drawable/green"
+    android:layout_gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:src="@drawable/lemon"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:scaleType="centerInside"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:justificationMode="inter_word"
+        android:text="Manfaat paling penting dari teh leci yaitu termasuk kemampuannya untuk meringankan pencernaan. Selain itu, untuk mencegah kanker tertentu, membantu penurunan berat badan, dan melindungi jantung. Teh leci dapat dibuat dalam beberapa cara, baik dengan jus buah yang diekstraksi, atau bahkan buah itu sendiri."
+        android:textStyle="bold" />
+
+</LinearLayout>

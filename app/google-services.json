@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "341422357137",
+    "firebase_url":"https//gelasku-f68fe-default-rtdb.firebaseio.com/",
+    "project_id": "gelasku-f68fe",
+    "storage_bucket": "gelasku-f68fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341422357137:android:1037d4a59a4a96fa209d30",
+        "android_client_info": {
+          "package_name": "com.example.projek1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341422357137-v1ma0uktrcrptqp6jiijq4gv3n2hq7gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSVvc5o8VOU_ULOuQzdC9BtOkeZ5yUW3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341422357137-v1ma0uktrcrptqp6jiijq4gv3n2hq7gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
